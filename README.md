@@ -7,5 +7,10 @@ This is a simple web application built with Django that allows users to send ema
 ### Email send Successfully:
 ![secondpage](https://github.com/saqiba123/Email-Sender-App-in-Django/assets/77055389/96456e8a-141c-420e-b196-71387b8b8be9)
 
+### Received successfully:
+![image](https://github.com/saqiba123/Email-Sender-App-in-Django/assets/77055389/3e4cfd05-1371-4a51-8d4d-eb5287675b19)
+
+
+
 
 
